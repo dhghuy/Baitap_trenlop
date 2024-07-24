@@ -52,7 +52,7 @@ body {
     color: #FFFFFF;
     border-radius: 3px;
     padding: 3px 0px;
-    font-size: 32px;
+    font-size: 20px;
     font-family: "Inter", sans-serif;
 }
 
@@ -62,7 +62,7 @@ body {
     color: #2F3645;
     border-radius: 3px;
     border: 1px solid #2F3645;
-    font-size: 32px;
+    font-size: 20px;
     font-family: "Inter", sans-serif;
     text-align: center;
     margin-top: 3px;
