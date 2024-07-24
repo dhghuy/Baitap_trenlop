@@ -42,7 +42,7 @@ body {
 .button-signin {
     width: 100%;
     background-color: #2F3645;
-    color: #EEEDEB;
+    color: #FFFFFF;
     border-radius: 3px;
     padding: 3px 0px;
     font-size: 32px;
@@ -51,11 +51,12 @@ body {
 
 .button-forgot-password {
     width: 100%;
-    background-color: #EEEDEB;
+    background-color: #FFFFFF;
     color: #2F3645;
     border-radius: 3px;
     border: 1px solid #2F3645;
     font-size: 32px;
     font-family: "Inter", sans-serif;
+    text-align: center;
     margin-top: 3px;
 }
