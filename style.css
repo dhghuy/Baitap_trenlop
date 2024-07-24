@@ -1,5 +1,5 @@
 body {
-    width: 100%;
+    width: vw%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,6 +11,13 @@ body {
     flex-direction: column;
     width: fit-content;
     padding: 0 10px
+}
+
+#register-card {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 0 10px;
 }
 
 #title {
